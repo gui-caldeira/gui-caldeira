@@ -1,7 +1,7 @@
 ### Oi! Sou o Guilherme. 
 
 
-- 🌱 Atualmente estudando C e JS
+- 🌱 Atualmente estudando Java
 - 📫 Contato: https://www.linkedin.com/in/guilherme-caldeira-864576264/
 - 😄 Pronouns: ele/dele
 
