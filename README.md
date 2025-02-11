@@ -2,7 +2,8 @@
 
 
 - 🌱 Atualmente estudando Java
-- 📫 Contato: https://www.linkedin.com/in/guilherme-caldeira-864576264/
+- 📫 Contato: guilhermecaldeira319@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/guilherme-caldeira-gumiero/
 - 😄 Pronouns: ele/dele
 
 <div>
